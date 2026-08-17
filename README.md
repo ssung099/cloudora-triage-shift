@@ -48,3 +48,4 @@ held pending evidence, 1 duplicate closed.
 ## Files
 
 - `Cloudora_Triage_shift.pdf` - triage verdict worksheet covering all 12 alerts (CLD-0101–CLD-0112), each with alert detail, hypothesis, evidence checked, verdict, severity, action, justification, and MITRE mapping
+- `cloudora_alert_queue.xlsx` - raw alert queue data as received at shift handover, before triage
